@@ -1,0 +1,1 @@
+Repository containing exercises and projects from the Alura Programming Logic with JavaScript course. Includes solutions to logic problems, code examples, and explanations of fundamental concepts.
