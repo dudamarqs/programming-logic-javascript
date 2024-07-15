@@ -1,2 +1,2 @@
-let userName = prompt('Qual o seu nome?');
+let userName = prompt('Qual é o seu nome?');
 alert(`Seja bem-vindo(a), ${userName}!`);

@@ -1,2 +1,2 @@
-let saldoConta = 2.500;
+let saldoConta = 2.700;
 alert(`Seu saldo: R$${saldoConta}.`);

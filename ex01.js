@@ -1,6 +1,6 @@
 dia = prompt('Que dia é hoje?');
 
-if (dia == 'sábado') {
+if (dia == 'sábado' || dia == "sabado") {
     alert('Bom fim de semana!');
 } else {
     if (dia == 'domingo') {

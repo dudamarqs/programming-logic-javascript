@@ -1,7 +1,7 @@
-let nota = prompt('Informe a nota');
+let nota = prompt('Informe a nota do aluno');
 
 if (nota >= 7) {
-    console.log('Aprovado');
+    console.log('Aluno aprovado');
 } else {
-    console.log('Reprovado.');
+    console.log('Aluno reprovado.');
 }

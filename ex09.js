@@ -1,7 +1,7 @@
-let number = prompt('Digite um número para a contagem progressiva');
+let num = prompt('Digite um número para a contagem progressiva');
 let count = 0;
 
-while (count < number){
+while (count < num){
     console.log(count);
     count++;
 }
